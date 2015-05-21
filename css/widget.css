@@ -1,0 +1,153 @@
+.ehw-container {
+    background: #fff;
+    color: #121215;
+    padding: 0;
+    margin: 0 auto;
+    border: 1px solid #dedede;
+    border-radius: 6px;
+    line-height: 1.5;
+    position: relative;
+    font-size: 14px;
+    text-align: center;
+}
+
+.ehw-content {
+    padding: 15px;
+}
+
+.ehw-container .ehw-avatar {
+    border-radius: 6px 6px 0 0;
+    overflow: hidden;
+    margin: 0;
+}
+
+.ehw-container .ehw-avatar .ehw-avatar-img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.ehw-container .ehw-name {
+    margin-bottom: 10px;
+}
+
+.ehw-container .ehw-name h6 {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.2;
+    font-style: normal;
+    margin: 0 auto;
+}
+
+.ehw-container .ehw-target {
+    margin: 0 0 10px 0;
+}
+
+.ehw-container .ehw-target span {
+    color: #828587;
+}
+
+.ehw-container .ehw-target .ehw-goal {
+    color: #00A044;
+    font-weight: 700;
+}
+.ehw-container .ehw-progress-bar {
+    background: #dedede;
+    overflow: hidden;
+    margin-bottom: 15px;
+    border-radius: 3px;
+    height: 6px;
+}
+
+.ehw-container .ehw-progress-bar .ehw-progress-complete {
+    background: #009344;
+    height: 100%;
+}
+
+.ehw-container .ehw-stats {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    overflow: hidden;
+}
+
+.ehw-container .ehw-stats li {
+    display: inline-block;
+    margin: 0 auto 10px;
+    padding: 0;
+    border: 0;
+    min-width: 75px;
+    font-size: inherit;
+}
+
+.ehw-container .ehw-stats .ehw-stats-value {
+    display: block;
+    font-weight: 700;
+    color: #121215;
+    line-height: 1.2;
+}
+
+.ehw-container .ehw-stats .ehw-stats-label {
+    line-height: 1.2;
+    font-size: 12px;
+    color: #828587;
+    text-transform: lowercase;
+}
+
+.ehw-container .ehw-stats .ehw-stats-success {
+    color: #00A044;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.ehw-container .ehw-footer {
+    margin-top: 5px;
+}
+
+.ehw-container .ehw-donate .ehw-donate-btn {
+    display: block;
+    background: #00A044;
+    color: #fff;
+    padding: 10px 15px;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    outline: none;
+    border-radius: 3px;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.ehw-container .ehw-donate .ehw-donate-btn:hover,
+.ehw-container .ehw-donate .ehw-donate-btn:active,
+.ehw-container .ehw-donate .ehw-donate-btn:focus {
+    outline: none;
+    background: #00B44D;
+    color: #fff;
+    text-decoration: none;
+}
+
+.ehw-container .ehw-brand {
+    margin-top: 15px;
+}
+
+.ehw-container .ehw-brand .ehw-brand-link {
+    text-decoration: none;
+    display: block;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    outline: none;
+    width: 100px;
+    margin: 0 auto;
+    background: url('../img/eh-logo.png') no-repeat center center;
+    background-size: 100%;
+}
+
+.ehw-container .ehw-error {
+    margin: 0 auto;
+    font-size: inherit;
+    color: inherit;
+}
