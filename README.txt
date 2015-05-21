@@ -1,4 +1,4 @@
-=== Widget Name ===
+=== Everyday Hero Widget ===
 
 Contributors: aciasche
 Donate link: http://adrianciaschetti.com/
