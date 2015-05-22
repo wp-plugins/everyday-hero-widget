@@ -27,11 +27,11 @@ Display your Everyday Hero profile beautifully on your website with this widget.
 = Where can I get support =
 Any questions or support requests will be answered on wordpress.org
 
-= If you like this plugin, please rate it =
-
 = Credits =
-[Adrian Ciaschetti](http://adrianciaschetti.com)
-[Yoghurt Digital](http://www.yoghurtdigital.com.au)
+*[Adrian Ciaschetti](http://adrianciaschetti.com)
+*[Yoghurt Digital](http://www.yoghurtdigital.com.au)
+
+= If you like this plugin, please rate it =
 
 == Installation ==
 
