@@ -29,6 +29,10 @@ Any questions or support requests will be answered on wordpress.org
 
 = If you like this plugin, please rate it =
 
+= Credits =
+[Adrian Ciaschetti](http://adrianciaschetti.com)
+[Yoghurt Digital](http://www.yoghurtdigital.com.au)
+
 == Installation ==
 
 = Installation =
