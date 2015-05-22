@@ -28,8 +28,8 @@ Display your Everyday Hero profile beautifully on your website with this widget.
 Any questions or support requests will be answered on wordpress.org
 
 = Credits =
-* [Adrian Ciaschetti](http://adrianciaschetti.com)
-* [Yoghurt Digital](http://www.yoghurtdigital.com.au)
+1. [Adrian Ciaschetti](http://adrianciaschetti.com)
+2. [Yoghurt Digital](http://www.yoghurtdigital.com.au)
 
 = If you like this plugin, please rate it =
 
