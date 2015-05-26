@@ -2,7 +2,7 @@
 
 Contributors: aciasche
 Donate link: http://adrianciaschetti.com/
-Tags: widget, everydayhero, everyday, hero, donate 
+Tags: widget, everydayhero, everyday, hero, donate, charity
 Requires at least: 4.0
 Tested up to: 4.3
 Stable tag: 4.3
