@@ -25,11 +25,13 @@ Display your Everyday Hero profile beautifully on your website with this widget.
 [everydayhero](https://www.everydayhero.com) is a service that aims to re-define the modern giving experience. While many existing services allow people to raise and donate money to causes, everydayhero enables fundraising and volunteering whilst also providing a visual representation of the time, effort, and social engagement that goes into supporting a cause. Supporters can select a charity, start fundraising or volunteering, and begin tracking their Giving Footprint.
 
 = Where can I get support =
-Any questions or support requests will be answered on wordpress.org
+Any questions or support requests will be answered on wordpress.org.
+This is an unofficial plugin for Everyday Hero.
 
 = Credits =
-1. [Adrian Ciaschetti](http://adrianciaschetti.com)
-2. [Yoghurt Digital](http://www.yoghurtdigital.com.au)
+* [Adrian Ciaschetti](http://adrianciaschetti.com)
+* [Yoghurt Digital](http://www.yoghurtdigital.com.au)
+* [everydayhero](https://www.everydayhero.com)
 
 = If you like this plugin, please rate it =
 
